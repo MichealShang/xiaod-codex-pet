@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "format": "WEBP",
+  "mode": "RGBA",
+  "columns": 8,
+  "rows": 11,
+  "spriteVersionNumber": 2,
+  "width": 1536,
+  "height": 2288,
+  "cellWidth": 192,
+  "cellHeight": 208,
+  "transparentRgbResiduePixels": 0,
+  "errors": [],
+  "warnings": [],
+  "sha256": "b39d59cdc5fd48f5cf2476c77b08aad51b1aa1df25e36fe80a4e5c1ad0b25586"
+}
