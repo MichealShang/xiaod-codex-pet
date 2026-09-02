@@ -1,0 +1,5 @@
+.DS_Store
+inputs/
+work/
+outputs/
+*.tmp
